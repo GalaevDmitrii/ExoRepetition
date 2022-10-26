@@ -1,0 +1,25 @@
+body {
+
+   background-size: 100px 100px;
+   background-image: url(https://helloartsy.com/wp-content/uploads/kids/marine_life/cute_octopus_drawing/cute-octopus-drawing_step-6.jpg);
+   background-repeat: repeat;
+   
+
+}
+
+div {
+   position: absolute;
+   top: 20%;
+   left: 33%;
+   height: 40%;
+   width: 40%;
+   background-color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+h1 { 
+   color: red;
+   font-size: 250px; 
+}
